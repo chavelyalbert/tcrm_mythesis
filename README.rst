@@ -1,5 +1,8 @@
-**This code is based on tcrm-2.0.2**
+This code is based on tcrm-2.0.2
+================================
+
 Please use the file env201.yml to create a complete functional environment for the code using conda (you will need to install any conda package: miniconda or anaconda).
+
 You can also use use the setenv.sh script to setup your environment and export the needed python variables using: source setenv.sh
 
 
